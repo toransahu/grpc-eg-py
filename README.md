@@ -28,6 +28,7 @@ $ python -m src.server.calc
 # run the client
 (grpc-eg)
 $ python -m src.clients.calc
+```
 
 # run using [`grpcurl`](https://github.com/fullstorydev/grpcurl)
 
