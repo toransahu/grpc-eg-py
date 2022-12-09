@@ -30,7 +30,7 @@ $ python -m src.server.calc
 $ python -m src.clients.calc
 ```
 
-# run using [`grpcurl`](https://github.com/fullstorydev/grpcurl)
+# Run using [`grpcurl`](https://github.com/fullstorydev/grpcurl)
 
 ```bash
 $ grpcurl \
